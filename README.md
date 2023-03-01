@@ -12,10 +12,15 @@ Hi there! I'm Nika Germanishvili, a junior front-end developer who's passionate 
 I'm proficient in a variety of technologies, including:
 
 HTML ✅
+
 CSS (Tailwind, Bootstrap) ✅
+
 JavaScript (ES6) ✅
+
 TypeScript ✅
+
 React (React Router, Redux) ✅
+
 GSAP ✅
 
 
