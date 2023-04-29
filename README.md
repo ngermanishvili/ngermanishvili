@@ -21,6 +21,8 @@ TypeScript ✅
 
 Sanity ✅
 
+Mui / ChakraUI ✅
+
 React (React Router, Redux) ✅
 
 NEXT JS ✅
