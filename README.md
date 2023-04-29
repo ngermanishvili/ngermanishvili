@@ -23,6 +23,8 @@ Sanity ✅
 
 React (React Router, Redux) ✅
 
+NEXT JS ✅
+
 GSAP ✅
 
 
