@@ -1,8 +1,7 @@
-### Hi there 👋
+# Hi There  👽
 
-### ABOUT ME 👽
-
-👨‍💻 Junior Front-end Developer and React Developer, Academy of Digital Industry 🚀
+👨‍💻 Junior Front-end Developer and React Developer,
+Graduated Academy of Digital Industry 🚀
 Hi there! I'm Nika Germanishvili, a junior front-end developer who's passionate about creating clean, intuitive, and user-friendly web applications. I'm currently on the lookout for new challenges, and I'm eager to join a team of like-minded individuals who share my passion for excellence. 💪
 
 
@@ -25,13 +24,18 @@ Mui / ChakraUI ✅
 
 React (React Router, Redux) ✅
 
-NEXT JS ✅
+Next JS ✅
 
 GSAP ✅
 
+Connect with me 
+- 📧 nikagermanishvili5@gmail.com
+
+- 🔗 LinkedIn - https://www.linkedin.com/in/ngermanishvili/
 
 
-### MORE ABOUT ME 💥💥
+
+##MORE ABOUT ME 💥
 
 📖 Passionate Learner and Team Player 🤝
 I'm always eager to learn new technologies and frameworks to enhance my skills and stay ahead of the curve. I'm also a team player who enjoys collaborating with others to achieve common goals and create awesome web applications. I'm not afraid of challenges, and I'm always up for tackling complex projects that require innovative solutions. 🚀
