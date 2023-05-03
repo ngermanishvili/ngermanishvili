@@ -20,6 +20,9 @@ JavaScript (ES7) ✅
 
 TypeScript ✅
 
+Three.js ✅ (Skilled in developing stunning visuals with Three.js and WebGL.
+)
+
 Sanity ✅ (Sanity is a customizable solution that treats content as data to power your digital business.)
 
 React (React Router, Redux) ✅
