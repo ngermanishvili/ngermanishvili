@@ -20,7 +20,7 @@ JavaScript (ES7) ✅
 
 TypeScript ✅
 
-Sanity ✅
+Sanity ✅ (Sanity is a customizable solution that treats content as data to power your digital business.)
 
 React (React Router, Redux) ✅
 
