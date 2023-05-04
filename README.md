@@ -1,47 +1,45 @@
-# Hi There  
-
-👨‍💻 Junior Front-end Developer and React Developer,
-Graduated Academy of Digital Industry 🚀
-Hi there! I'm Nika Germanishvili, a junior front-end developer who's passionate about creating clean, intuitive, and user-friendly web applications. I'm currently on the lookout for new challenges, and I'm eager to join a team of like-minded individuals who share my passion for excellence. 💪
-
-
-### SKILLS ✊
-
-🎓 Technologies I Know 🤖
-I'm proficient in a variety of technologies, including:
-
-HTML ✅
-
-CSS (Tailwind, Styled Components ...) ✅
-
-Mui / ChakraUI ✅
-
-JavaScript (ES7) ✅
-
-TypeScript ✅
-
-Three.js ✅ (Skilled in developing stunning visuals with Three.js and WebGL.
-)
-
-Sanity ✅ (Sanity is a customizable solution that treats content as data to power your digital business.)
-
-React (React Router, Redux) ✅
-
-Next JS ✅
-
-GSAP ✅ (Professional-grade JavaScript animation for the modern web
-)
-
-Connect with me 
-- 📧 nikagermanishvili5@gmail.com
-
-- 🔗 LinkedIn - https://www.linkedin.com/in/ngermanishvili/
 
 
 
-##MORE ABOUT ME 💥
 
-📖 Passionate Learner and Team Player 🤝
-I'm always eager to learn new technologies and frameworks to enhance my skills and stay ahead of the curve. I'm also a team player who enjoys collaborating with others to achieve common goals and create awesome web applications. I'm not afraid of challenges, and I'm always up for tackling complex projects that require innovative solutions. 🚀
+	⁃	[![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)]
+<h1 align="center">Hi 👋, I'm Nika Germanishvili</h1>
+<h3 align="center">A passionate frontend developer from Georgia</h3>
+<img align=right> alt=‘Coding’ width=‘400px’ src=“https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966”>
 
-If you're looking for a motivated, dedicated, and enthusiastic junior front-end developer with a passion for excellence, look no further! Don't hesitate to reach out if you have any questions or would like to learn more about my experience with React and front-end development. I'm excited to hear from you! 😊
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngermanishvili&label=Profile%20views&color=0e75b6&style=flat" alt="ngermanishvili" /> </p>
+
+<p align="left"> <a href="https://twitter.com/buddypod_nft" target="blank"><img src="https://img.shields.io/twitter/follow/buddypod_nft?logo=twitter&style=for-the-badge" alt="buddypod_nft" /></a> </p>
+
+- 🔭 I’m currently working on [Cryptogrammer Blockchain Website](https://github.com/ngermanishvili/cryptogrammer-07)
+
+- 🌱 I’m currently learning **Next.js, ChakraUI, MUI**
+
+- 👯 I’m looking to collaborate on **HackLab**
+
+- 🤝 I’m looking for help with **I'm building a new mobile app (HooBank) and could use some help with UI design and development**
+
+- 👨‍💻 All of my projects are available at [ngerman.ntlfy.app](ngerman.ntlfy.app)
+
+- 💬 Ask me about **React, Javascript, GSAP**
+
+- 📫 How to reach me **nikagermanishvili5@gmail.com**
+
+- 📄 Know about my experiences [rsm.rsm](rsm.rsm)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/buddypod_nft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buddypod_nft" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ngermanishvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngermanishvili" height="30" width="40" /></a>
+<a href="https://discord.gg/r3x7fpyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r3x7fpyx" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngermanishvili&show_icons=true&locale=en&layout=compact" alt="ngermanishvili" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngermanishvili&show_icons=true&locale=en" alt="ngermanishvili" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngermanishvili&" alt="ngermanishvili" /></p>
