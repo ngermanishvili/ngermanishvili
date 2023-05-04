@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Next.js, ChakraUI, MUI**
 
-- 👯 I’m looking to collaborate on **HackLab**
+- 👯 I’m currently looking to collaborate on **UniLab**
 
-- 🤝 I’m looking for help with **I'm building a new mobile app (HooBank) and could use some help with UI design and development**
+- 🤝 I’m  looking for help with **I'm building a new mobile app (HooBank) and could use some help with UI design and development**
 
 <!-- - 👨‍💻 All of my projects are available at [ngerman.ntlfy.app](ngerman.ntlfy.app)
  -->
