@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **I'm building a new mobile app (HooBank) and could use some help with UI design and development**
 
-- 👨‍💻 All of my projects are available at [ngerman.ntlfy.app](ngerman.ntlfy.app)
-
+<!-- - 👨‍💻 All of my projects are available at [ngerman.ntlfy.app](ngerman.ntlfy.app)
+ -->
 - 💬 Ask me about **React, Javascript, GSAP**
 
 - 📫 How to reach me **nikagermanishvili5@gmail.com**
 
-- 📄 Know about my experiences [rsm.rsm](rsm.rsm)
+<!-- - 📄 Know about my experiences [rsm.rsm](rsm.rsm) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
