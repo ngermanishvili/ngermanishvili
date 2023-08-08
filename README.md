@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Cryptogrammer Blockchain Website](https://github.com/ngermanishvili/cryptogrammer-07)
 
-- 🌱 I’m currently learning **Next.js, ChakraUI, MUI**
+- 🌱 I’m currently learning **Flutter, AWS, ProstreSQL**
 
 
 - 🤝 I’m  looking for help with **I'm building a new mobile app (HooBank) and could use some help with UI design and development**
