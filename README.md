@@ -40,4 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngermanishvili&show_icons=true&locale=en" alt="ngermanishvili" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngermanishvili&" alt="ngermanishvili" /></p>
-<a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="900" height="auto" alt="Nika Germanishvili's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="300" height="auto" alt="Nika Germanishvili's Dev Card"/></a>
