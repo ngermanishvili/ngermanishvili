@@ -41,7 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngermanishvili&" alt="ngermanishvili" /></p>
 <div>
-<a href="https://app.daily.dev/ngermanishvili"><img align="center" src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="300" height="auto" alt="Nika Germanishvili's Dev Card"/></a>
-<a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="400" height="auto" alt="Nika Germanishvili's Dev Card"/></a>
- <a align="right" href="https://app.daily.dev/ngermanishvili"><img style={{marginRight: '20px'}} src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="300"  height="auto" alt="Nika Germanishvili's Dev Card"/></a>
+<a href="https://app.daily.dev/ngermanishvili"><img align="center" src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="200" height="auto" alt="Nika Germanishvili's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="300" height="auto" alt="Nika Germanishvili's Dev Card"/></a>
+ <a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="200"  height="auto" alt="Nika Germanishvili's Dev Card"/></a>
 </div>
