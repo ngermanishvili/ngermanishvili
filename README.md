@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngermanishvili&label=Profile%20views&color=0e75b6&style=flat" alt="ngermanishvili" /> </p>
 
 <p align="left"> <a href="https://twitter.com/buddypod_nft" target="blank"><img src="https://img.shields.io/twitter/follow/buddypod_nft?logo=twitter&style=for-the-badge" alt="buddypod_nft" /></a> </p>
-
+<a href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="400" alt="Nika Germanishvili's Dev Card"/></a>
 - 🔭 I’m currently working on [Cryptogrammer Blockchain Website](https://github.com/ngermanishvili/cryptogrammer-07)
 
 - 🌱 I’m currently learning **Flutter, AWS, ProstreSQL**
