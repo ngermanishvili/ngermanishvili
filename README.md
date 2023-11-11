@@ -25,9 +25,10 @@
 - 📫 How to reach me **nikagermanishvili5@gmail.com**
 
 <!-- - 📄 Know about my experiences [rsm.rsm](rsm.rsm) -->
-- <a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="400" alt="Nika Germanishvili's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ - <a align="right" href="https://app.daily.dev/ngermanishvili"><img src="https://api.daily.dev/devcards/fbc4495220d94201aafbc6d57799bc60.png?r=11h" width="300" alt="Nika Germanishvili's Dev Card"/></a>
+
 <a href="https://twitter.com/buddypod_nft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buddypod_nft" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ngermanishvili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngermanishvili" height="30" width="40" /></a>
 <a href="https://discord.gg/r3x7fpyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r3x7fpyx" height="30" width="40" /></a>
