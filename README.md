@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngermanishvili&label=Profile%20views&color=0e75b6&style=flat" alt="ngermanishvili" /> </p>
 
 <p align="left"> <a href="https://twitter.com/buddypod_nft" target="blank"><img src="https://img.shields.io/twitter/follow/buddypod_nft?logo=twitter&style=for-the-badge" alt="buddypod_nft" /></a> </p>
-- 🔭 I’m currently working on [Cryptogrammer Blockchain Website](https://github.com/ngermanishvili/cryptogrammer-07)
+- 🔭 I’m currently working on [D2D GROUP Delivery Website]
 
 - 🌱 I’m currently learning **Solidity**
 
