@@ -8,17 +8,17 @@
 <p align="left"> <a href="https://twitter.com/buddypod_nft" target="blank"><img src="https://img.shields.io/twitter/follow/buddypod_nft?logo=twitter&style=for-the-badge" alt="buddypod_nft" /></a> </p>
 - 🔭 I’m currently working on [Cryptogrammer Blockchain Website](https://github.com/ngermanishvili/cryptogrammer-07)
 
-- 🌱 I’m currently learning **Flutter, AWS, ProstreSQL**
+- 🌱 I’m currently learning **Solidity**
 
 
 
-- 🤝 I’m  looking for help with **I'm building a new mobile app (HooBank) and could use some help with UI design and development**
+- 🤝 I’m  looking for help with **I'm building a new mobile app (Vneba) and could use some help with UI design and development**
 
 <!-- - 👨‍💻 All of my projects are available at [ngerman.ntlfy.app](ngerman.ntlfy.app)
  -->
-- 💬 Ask me about **React, Javascript, GSAP**
+- 💬 Ask me about **React, Next.js,  Javascript, All UI Libraries**
 
-- 📫 How to reach me **nikagermanishvili5@gmail.com**
+- 📫 How to reach me **nikagermanishvili8@gmail.com**
 
 <!-- - 📄 Know about my experiences [rsm.rsm](rsm.rsm) --->
 <h3 align="left">Connect with me:</h3>
